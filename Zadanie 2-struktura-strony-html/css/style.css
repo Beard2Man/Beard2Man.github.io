@@ -1,0 +1,64 @@
+#body {
+  width: 580px;
+  border: 1px solid black;
+}
+#table {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.blok {
+  display: inline-block;
+  margin-right: 10px;
+  padding-left: 7px;
+  padding-right: 7px;
+  border: 1px solid black;
+}
+
+header {
+  border: none;
+  outline: none;
+  padding: 10px;
+  background-color: rgb(245, 186, 109);
+}
+
+section {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  /* padding: 10px; */
+  border: none;
+  padding: 10px;
+  outline: none;
+  background-color: rgb(93, 204, 93);
+}
+
+footer {
+  border: none;
+  padding: 10px;
+  outline: none;
+  background-color: lightgrey;
+}
+
+h1 {
+  height: 15px;
+  padding: 10px;
+}
+
+h2,
+h3 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+#p1 {
+  padding: 10px;
+  width: 450px;
+}
+
+#blueblok {
+  color: white;
+  background-color: rgba(8, 8, 122, 0.959);
+}
